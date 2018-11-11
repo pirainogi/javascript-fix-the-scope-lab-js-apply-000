@@ -1,11 +1,15 @@
 var animal = 'dog'
+var yourAnimal = 'cat'
 
 function myAnimal() {
   return animal
 }
 
 function yourAnimal() {
+<<<<<<< HEAD
   var yourAnimal = 'cat'
+=======
+>>>>>>> b895c44de87079e601deaaa09e0ed75beb3eb5ba
   return yourAnimal
 }
 
